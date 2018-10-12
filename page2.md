@@ -36,4 +36,4 @@
   </tr>
 </table>
 <hr>
- <li lang="de"> "Wenn er stirbt, nimm ihn und schneide ihn in Sterne aus und er wird das Angesicht des Himmels so schön machen, dass die ganze Welt in die Nacht verliebt sein wird und der grellen Sonne keine Verehrung erweisen wird." </li lang="de"> 
+ <li lang="de"> "Wenn er stirbt, nimm ihn und schneide ihn in Sterne aus und er wird das Angesicht des Himmels so schön machen, dass die ganze Welt in die Nacht verliebt sein wird und der grellen Sonne keine Verehrung erweisen wird." 
