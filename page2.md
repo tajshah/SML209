@@ -13,3 +13,25 @@
   <dd>Put succinctly, it’s a way of living that emphasizes finding beauty in imperfection, and accepting the natural cycle of growth and decay</dd>
 </dl>
 <hr>
+<table>
+  <tr>
+    <th>English</th>
+    <th>German</th>
+    <th>Dutch</th>
+  </tr>
+  <tr>
+    <td>Food</td>
+    <td>Essen</td>
+    <td>Voedsel</td>
+  </tr>
+  <tr>
+    <td>Weather</td>
+    <td>Wetter</td>
+    <td>Lovart</td>
+  </tr>
+  <tr>
+    <td>Love</td>
+    <td>Liebe</td>
+    <td>Kärlek</td>
+  </tr>
+</table>
