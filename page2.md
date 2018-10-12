@@ -2,7 +2,7 @@
 <h1>HTML Part 2 Homework</h1>
 <hr>
 <p>This homework was completed on the 12<sup>th</sup> of October 2018 </p>
-<img src="https://commons.wikimedia.org/wiki/File:Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg#/media/File:Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg" alt="Joseph Noel Paton - The Quarrel of Oberon and Titania">
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Sir_Joseph_Noel_Paton_-_The_Quarrel_of_Oberon_and_Titania_-_Google_Art_Project_2.jpg" alt="Joseph Noel Paton - The Quarrel of Oberon and Titania">
 <hr>
 <dl>
   <dt>Schadenfreude</dt>
