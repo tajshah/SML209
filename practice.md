@@ -5,6 +5,6 @@
 <iframe src="https://h5p.org/h5p/embed/345713" width="560" height="1548" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <p>
-  <a style="float:right;" href="[practice].html">Go to Exercise 2</a>
+  <a style="float:right;" href="[practice2].html">Go to Exercise 2</a>
   </p>
   <div style="clear:both;"> </div>
