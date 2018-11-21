@@ -6,3 +6,8 @@
   <a style="float:left;" href="practice.html">Go back to Exercise 1</a>
  </p>
   <div style="clear:both;"> </div>
+
+
+<audio controls>
+  <source src="upload.wikimedia.org/wikipedia/commons/transcoded/d/d7/German_Vocabulary_-_Time.ogg/German_Vocabulary_-_Time.ogg.mp3" type="audio/mpeg">
+</audio>
