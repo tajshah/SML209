@@ -4,5 +4,5 @@
 <p> 
 I wanted to create a website that focused on topics that were majority of the times overlooked. This lead to the creation of <strong> gerWOmany. </strong> The main purpose of gerWOmany is to educate. If by the end of your visit you gain more knowledge than you came with, my mission would be complete. 
 </p>
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Playing_with_hands.JPG" >
 <hr>
