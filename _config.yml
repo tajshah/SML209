@@ -1,9 +1,9 @@
 theme: jekyll-theme-cayman
-title: Learn German Today
-description: Simple steps to perfect German
+title: gerWOmany
+description: A simple overview of Germany with an emphasis on women-related topics  
 github:
-  page2:  page2.html
-  page3:  page3.html
-  page4:  page4.html
-  page5:  page5.html
-  page6:  practice.html
+  page2:  About-Germany.html
+  page3:  Women-In-History.html
+  page4:  Fashion.html
+  page5:  Immigration.html
+  page6:  Feminism.html
