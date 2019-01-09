@@ -20,13 +20,17 @@
 <hr>
 <h2> Heidi Klum </h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Heidi_Klum_Judges_Red_Carpet_event_April_2014_%28cropped%29.jpg" width="340">
-<p>Heidi Klum (born 1 June 1973)is a German-American model, television personality, businesswoman, fashion designer, singer, television producer, author, and actress. She appeared on the cover of the Sports Illustrated Swimsuit Issue and in 1999 was the first German model to become a Victoria's Secret Angel.</p>
+<p>Heidi Klum (born 1 June 1973) is a German-American model, television personality, businesswoman, fashion designer, singer, television producer, author, and actress. She appeared on the cover of the Sports Illustrated Swimsuit Issue and in 1999 was the first German model to become a Victoria's Secret Angel.</p>
 <p>Following a successful modeling career, Klum became the host and a judge of Germany's Next Topmodel and the reality show Project Runway which earned her an Emmy nomination in 2008 and a win in 2013 for Outstanding Host for a Reality or Reality-Competition Program (shared with co-host Tim Gunn); Klum has been nominated for six Emmy Awards</p>
 <hr>
 <h2>Rosa Luxemburg</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Rosa_Luxemburg_colorized_photo.jpg" width="340"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Rosa_Luxemburg_colorized_photo.jpg" width="240"> 
 <p> Rosa Luxemburg (5 March 1871 – 15 January 1919) was a Polish Marxist theorist, philosopher, economist, anti-war activist, and revolutionary socialist who became a naturalized German citizen at the age of 28. She was, successively, a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD), and the Communist Party of Germany (KPD).</p>
-
+<hr>
+<h2>Trümmerfrauen</h2>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_183-Z1218-314%2C_Berlin%2C_Tr%C3%BCmmerfrauen.jpg" width="340">
+<p>Trümmerfrauen (literally translated as ruins women or rubble women) is the German-language name for women who, in the aftermath of World War II, helped clear and reconstruct the bombed cities of Germany and Austria. With hundreds of cities having suffered significant bombing and firestorm damage through aerial attacks (and in some cases, ground fighting), and with many men dead or prisoners of war, this monumental task fell to a large degree on women.</p>
+<hr>
 
 
 
