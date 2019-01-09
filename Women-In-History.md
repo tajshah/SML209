@@ -1,5 +1,7 @@
 <h1>Women in History</h1>
 <p> When one thinks of memorable German people it is more than likely that the majority if not all are men. This lead to my inspiration for this page. I have listed 6 women you perhaps did not know of but who made an important impact to the germans history that we know of now. </p>
+<strong>Women</strong>
+<ol> <li>Sophie Scholl </li> <li>Hildegard von Bingen </li> <li>Beate Uhse</li> <li> Heid Klum</li> <li>Rosa Luxemburg</li> <li>Trümmerfrauen</li> </ol>
 <hr>
 <h2> Sophie Scholl </h2>
 <img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Sophie_scholl_bust.JPG" >
