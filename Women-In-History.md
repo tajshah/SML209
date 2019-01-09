@@ -28,7 +28,7 @@
 <p> Rosa Luxemburg (5 March 1871 – 15 January 1919) was a Polish Marxist theorist, philosopher, economist, anti-war activist, and revolutionary socialist who became a naturalized German citizen at the age of 28. She was, successively, a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD), and the Communist Party of Germany (KPD).</p>
 <hr>
 <h2>Trümmerfrauen</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_183-Z1218-314%2C_Berlin%2C_Tr%C3%BCmmerfrauen.jpg" width="340">
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_183-Z1218-314%2C_Berlin%2C_Tr%C3%BCmmerfrauen.jpg" width="440">
 <p>Trümmerfrauen (literally translated as ruins women or rubble women) is the German-language name for women who, in the aftermath of World War II, helped clear and reconstruct the bombed cities of Germany and Austria. With hundreds of cities having suffered significant bombing and firestorm damage through aerial attacks (and in some cases, ground fighting), and with many men dead or prisoners of war, this monumental task fell to a large degree on women.</p>
 <hr>
 
