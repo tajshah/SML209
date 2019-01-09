@@ -4,7 +4,7 @@
 <ol> <li>Sophie Scholl </li> <li>Hildegard von Bingen </li> <li>Beate Uhse</li> <li> Heid Klum</li> <li>Rosa Luxemburg</li> <li>Trümmerfrauen</li> </ol>
 <hr>
 <h2> Sophie Scholl </h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Sophie_scholl_bust.JPG" width="640" > 
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/16/Sophie_scholl_bust.JPG" width="440" > 
 <p> Sophia Magdalena Scholl (9 May 1921 – 22 February 1943) was a German student and anti-Nazi political activist, active within the White Rose non-violent resistance group in Nazi Germany.</p>
 <p>She was convicted of high treason after having been found distributing anti-war leaflets at the University of Munich (LMU) with her brother, Hans. As a result, she was executed by guillotine. Since the 1970s, Scholl has been extensively commemorated for her anti-Nazi resistance work.</p>
 <hr>
