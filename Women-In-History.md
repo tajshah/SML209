@@ -24,7 +24,7 @@
 <p>Following a successful modeling career, Klum became the host and a judge of Germany's Next Topmodel and the reality show Project Runway which earned her an Emmy nomination in 2008 and a win in 2013 for Outstanding Host for a Reality or Reality-Competition Program (shared with co-host Tim Gunn); Klum has been nominated for six Emmy Awards</p>
 <hr>
 <h2>Rosa Luxemburg</h2>
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Rosa_Luxemburg_colorized_photo.jpg" width="240"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Rosa_Luxemburg_colorized_photo.jpg" width="340"> 
 <p> Rosa Luxemburg (5 March 1871 – 15 January 1919) was a Polish Marxist theorist, philosopher, economist, anti-war activist, and revolutionary socialist who became a naturalized German citizen at the age of 28. She was, successively, a member of the Social Democracy of the Kingdom of Poland and Lithuania (SDKPiL), the Social Democratic Party of Germany (SPD), the Independent Social Democratic Party (USPD), and the Communist Party of Germany (KPD).</p>
 <hr>
 <h2>Trümmerfrauen</h2>
