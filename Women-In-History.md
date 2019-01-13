@@ -27,7 +27,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Bundesarchiv_Bild_183-Z1218-314%2C_Berlin%2C_Tr%C3%BCmmerfrauen.jpg" width="440">
 <p>The Trümmerfrauen, literally “women of the rubble”, were the women who rebuilt Germany. After the Second World War, there were around seven million more women than men left in Germany. Along with that, there was an estimated 400 million cubic meters of rubble to be cleared and four million homes to be rebuilt. For months after the end of the war, women aged 15-50, some volunteers, others contracted, set to work to build the country back up. There were a few rough years directly after the year, but after the rubble was cleared and the Marshall Plan went into full swing, West Germany’s economy recovered tenfold and, by the late 1950s, the economic miracle had taken hold. Without these brave women, Germany may never have fully recovered from the devastation of the war.</p>
 <hr>
-
+<iframe src="https://h5p.org/h5p/embed/406907" width="1090" height="378" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
 
 
