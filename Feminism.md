@@ -44,7 +44,7 @@
 <p>Women's representation in government and the workforce has made progress in the early 21st century. The German Chancellor, Angela Merkel, has established her key role in European politics. Merkel's time in office has not been without controversy related to women's rights legislation; in 2013, she opposed an EU proposal to introduce 40-percent female quota on executive boards in all publicly listed companies with more than 250 employees by 2020, on the basis that this was a violation of member states' affairs. Germany's Labour Minister, Ursula von der Leyen, a supporter of the quota in Germany, received a written order from Merkel to "alter her ministry's lack of an objection to the EU directive, so that the cabinet could present a unified face to Germany's EU officials". However, in March 2015 the SPD party won the battle on female quota. A new law requires about 100 companies to appoint women on 30 percent of their supervisory board seats, beginning in 2016. In addition, 3,500 companies are required to submit plans to increase the female share in top positions. </p>
 <hr>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pbxk2SrR85A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p4QrY7N4Uhg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p>
   <a style="float:left;" href="Women-In-History.html">Go to Women In History</a>
  </p>
