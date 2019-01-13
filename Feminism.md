@@ -1,4 +1,4 @@
-<h1>History of Feminism in Germany</h1>
+<h1>Feminism in Germany</h1>
 <p>Feminism in Germany as a modern movement began during the Wilhelmine period (1888–1918) with individual women and women's rights groups pressuring a range of traditional institutions, from universities to government, to open their doors to women. This movement culminated in women's suffrage in 1919. Later waves of feminist activists pushed to expand women's rights.</p>
 <hr>
 
