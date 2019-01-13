@@ -44,7 +44,7 @@ The German Government has been keen to encourage immigration over the past 50 ye
 <p>In 2015, Germany received 900 000 asylum seekers and spent €16 billion (0.5% of GDP) on its migrants that year.
 In 2017 the Federal Office for Migration and Refugees in Germany reported that of the 340,000 migrants who participated in German language courses during 2016, less than half at 113,050 received a passing grade. The authority had no idea why.</p>
 
-<p>In April 2018 more than half, at 55%, of the recipients of unemployment benefits had a migration background.[61] According to the Federal Employment Agency (German: Bundesagentur für Arbeit) this was due to the migrants lacking either employable skills or knowledge of the language.</p>
+<p>In April 2018 more than half, at 55%, of the recipients of unemployment benefits had a migration background. According to the Federal Employment Agency (German: Bundesagentur für Arbeit) this was due to the migrants lacking either employable skills or knowledge of the language.</p>
 
 <p>The 2018 Ellwangen police raid, in which residents of a migrant shelter rioted to prevent police from deporting an asylum seeker whose claim had been deemed invalid, sparked a significant political debate</p>
 
