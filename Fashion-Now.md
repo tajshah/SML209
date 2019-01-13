@@ -20,3 +20,8 @@ There are also various agencies hosting multiple German brands and designers at 
 <p>Important modeling agency locations in Germany are Berlin (izaio, Seeds Models, Viva Models, OneEins), Munich (Louisa Models, Most Wanted Models, Munich Models, Nova Models, Talents München, Vivienne Models) and Hamburg (MGM Models, iconic management, m 4 models, Mega Models, Model Management, Modelwerk, Most Wanted Models, Place Models, PMA Models). Also agencies in Vienna and Zurich host models based in Germany, as well as major global agencies like IMG Models, DNA, Elite, Models 1 and NEXT.</p>
 <p>There is a range of fashion models from Germany that made it to international fame, such as Claudia Schiffer, <strong>Heidi Klum</strong>, Diane Kruger, Eva Padberg, Toni Garrn, Julia Stegner, Tatjana Patitz, Manon von Gerkan, Birte Glang, Nico, Uschi Obermaier, Carola Remer, Franziska Knuppe, Vanessa Hegelmaier, Lena Gercke, Sara Nuru, Barbara Meier, Nadja Auermann, Claudia Ciesla, Aslı Bayram, Shermine Shahrivar, Evelyn Sharma, Marten Laciny, Nico Schwanz and Lars Burmeister.</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7oxwDQxDEIE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p>
+  <a style="float:left;" href="Fashion.html">Go back to Fashion</a>
+ </p>
+  <div style="clear:both;"> </div>
